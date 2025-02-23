@@ -1,14 +1,12 @@
 ## 例文
 * 中国語:  
   小张憋(biē)着气想抓住一只鳖(biē)，唯恐它逃跑，谁知他蹩(bié)着腿摔了一跤，鞋子都被踩瘪(biě)了；路人急得大喊：“别(bié)逞强，快去医院！”  
-  (第四声漢字なし) (軽声漢字なし)
 
 * 発音 (pīnyīn):  
   Xiǎo Zhāng biē zhe qì xiǎng zhuā zhù yì zhī biē,  
   wéikǒng tā táopǎo, shéi zhī tā bié zhe tuǐ shuāi le yì jiāo,  
   xiézi dōu bèi cǎi biě le;  
   lùrén jí de dàhǎn: “Bié chěngqiáng, kuài qù yīyuàn!”  
-  (Dì sì shēng hànzì nǎixī) (qīngshēng hànzì nǎixī)
 
 * 日本語訳:  
   小張は息をこらえてスッポンを捕まえようとしたところ、逃げられるのを恐れるあまり、不器用に足を動かしてしまい、靴がぺしゃんこになるほど転んでしまいました。周りの人が「ムリしないで、早く病院へ！」と大声で叫ぶ始末でした。
